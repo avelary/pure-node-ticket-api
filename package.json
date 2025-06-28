@@ -1,0 +1,12 @@
+{
+  "name": "ticket-api",
+  "version": "1.0.0",
+  "description": "Support ticket management API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Avelar",
+  "license": "ISC"
+}

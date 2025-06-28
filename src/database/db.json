@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "1915d23a-77bb-424a-a772-e84e63c454a6",
+      "equipment": "mouse",
+      "description": "sensor quebrado",
+      "user_name": "Dev Sanches",
+      "status": "open",
+      "created_at": "2025-06-27T23:34:30.061Z",
+      "updated_at": "2025-06-27T23:34:30.061Z"
+    },
+    {
+      "id": "86de89f5-617d-4125-9d3b-9830a241434f",
+      "equipment": "computer",
+      "description": "ssd comprometido",
+      "user_name": "Dev Giovanna Linda",
+      "status": "closed",
+      "created_at": "2025-06-28T02:49:30.354Z",
+      "updated_at": "2025-06-28T02:49:30.354Z",
+      "solution": "SSD trocado."
+    }
+  ]
+}

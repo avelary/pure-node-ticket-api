@@ -7,3 +7,5 @@ export function parseRoutePath(path) {
 
   return pathRegex
 }
+
+//Regex
